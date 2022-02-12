@@ -2,6 +2,8 @@
 
 ## AIM:
 
+To write a python program for multiplying two matrix.
+
 ## ALGORITHM:
 
 ### Step 1:
@@ -44,4 +46,4 @@ print("Product of two arrays is:",A)
 
 ## RESULT:
 
-Thus the program is written to multiply two matrix.
+Thus, the program is written to multiply two matrix.
